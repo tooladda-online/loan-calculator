@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 Loan Calculator
+# 🧮 Loan Calculator
 
 ### Use Loan Calculator free on ToolAdda — quick, accurate, and browser-based.
 
